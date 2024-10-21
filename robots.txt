@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heasefulp.github.io/heasefulp.txt.gz
+Sitemap: https://heasefulp.github.io/app/heasefulp.txt.gz
+Sitemap: https://heasefulp.github.io/assets/heasefulp.txt.gz
+Sitemap: https://heasefulp.github.io/css/heasefulp.txt.gz
+Sitemap: https://heasefulp.github.io/includes/heasefulp.txt.gz
+Sitemap: https://heasefulp.github.io/item/heasefulp.txt.gz
+Sitemap: https://heasefulp.github.io/src/heasefulp.txt.gz
